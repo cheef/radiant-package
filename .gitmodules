@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/settings"]
+	path = vendor/extensions/settings
+	url = git@github.com:cheef/radiant-settings.git
