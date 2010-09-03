@@ -1,3 +1,6 @@
 [submodule "vendor/extensions/settings"]
 	path = vendor/extensions/settings
 	url = git@github.com:cheef/radiant-settings.git
+[submodule "vendor/extensions/comments"]
+	path = vendor/extensions/comments
+	url = git@github.com:cheef/radiant-comments.git

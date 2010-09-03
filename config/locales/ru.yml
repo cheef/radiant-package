@@ -173,7 +173,7 @@ ru:
    users_controller:
      cannot_delete_self: "Нельзя удалять себя."
    version: 'Версия'
-   view_site: 'Просмотр сайта'
+   view_site: 'Сайт'
    website: 'Веб сайт'
    welcome_controller:
      invalid_user: "Неверное имя либо пароль."
