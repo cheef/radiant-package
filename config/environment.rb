@@ -10,6 +10,7 @@ require File.join(File.dirname(__FILE__), 'boot')
 require 'radius'
 
 Radiant::Initializer.run do |config|
+
   # Skip frameworks you're not going to use (only works if using vendor/rails).
   # To use Rails without a database, you must remove the Active Record framework
   config.frameworks -= [ :action_mailer ]
@@ -75,6 +76,7 @@ Radiant::Initializer.run do |config|
   end
 
   config.gem 'will_paginate', :version => '~> 2.3.11', :source => 'http://gemcutter.org'
+  config.gem 'sanitize'
 
   config.after_initialize do
     # Add new inflection rules using the following format:
