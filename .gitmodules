@@ -4,3 +4,9 @@
 [submodule "vendor/extensions/comments"]
 	path = vendor/extensions/comments
 	url = git@github.com:cheef/radiant-comments.git
+[submodule "vendor/extensions/paginate"]
+	path = vendor/extensions/paginate
+	url = git@github.com:cheef/radiant-paginate-extension.git
+[submodule "vendor/extensions/lazy-snippet"]
+	path = vendor/extensions/lazy-snippet
+	url = git@github.com:cheef/radiant-lazy-snippet-extension.git

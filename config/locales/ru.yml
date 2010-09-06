@@ -89,7 +89,7 @@ ru:
    notes: 'Заметки'
    optional: 'Опционально'
    or: '&nbsp;&nbsp;'
-   page: 'Страница'   # Странмца vs. Страницу
+   page: 'Страница'   # Страница vs. Страницу
    page_page: 'Page Part'
    page_title: 'Заголовок'
    page_type: 'Тип страницы'
@@ -110,6 +110,7 @@ ru:
      updated: "Ваши настройки сохранены"
    published: 'Опубликована'
    published_at: 'Опубликовано'
+   published_on: 'Опубликовано'
    reference:  'Справка'
    remember_me: 'Запомнить меня'
    remove: 'Удалить'
@@ -129,6 +130,7 @@ ru:
    roles: 'Роли'
    saving_changes: Сохранение изменений
    saving_preferences: Сохранение настроек
+   scheduled: Ожидает публикации
    search_tags: 'Поиск по тэгам:'
    select:
      inherit: '<inherit>'
