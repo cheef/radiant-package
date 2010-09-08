@@ -1,5 +1,3 @@
-require 'sanitize'
-
 # The Comments Extension uses this option to clean out unwanted elements from the comments.
 # The example output for each option is the result of sanitization for this text:
 #
